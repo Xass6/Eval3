@@ -1,2 +1,5 @@
 # Eval3
-Après le deuxième script, une fois sur le vm aller dans /var/www/html pour lancer le deuxieme scritp
+Ce script sert a créer une VM par le terminal.
+Créer un dossier avec le script a l'interieur. Lancer le script, il vous emmeneras sur une VM ubuntu, un deuxième script va se créer dans le dossier data, lancer le après avoir fait un "cd /var/www/html". Il permettras de créer un paquets (fichier HTML,CSS,JS) et de créer un utilisateurs.
+Et voilà ! 
+Enjoy ᵔᴥᵔ
